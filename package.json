@@ -1,6 +1,6 @@
 {
   "name": "cloudflare-frontegg",
-  "version": "2.9.2",
+  "version": "1.0.0",
   "description": "CloudFlare API client (Frontegg Fork)",
   "author": "Terin Stock <terinjokes@gmail.com>",
   "bugs": {
