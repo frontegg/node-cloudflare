@@ -1,0 +1,9 @@
+.github
+.nyc_output
+coverage
+node_modules
+test
+.eslintrc.yml
+.gitignore
+.prettierrc.yaml
+package-lock.json
