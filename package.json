@@ -1,7 +1,6 @@
 {
   "name": "@frontegg/cloudflare",
-  "version": "1.0.0",
-  "private": true,
+  "version": "1.0.1",
   "description": "CloudFlare API client (Frontegg Fork)",
   "author": "Terin Stock <terinjokes@gmail.com>",
   "bugs": {
